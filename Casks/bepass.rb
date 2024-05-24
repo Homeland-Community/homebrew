@@ -1,4 +1,4 @@
-cask 'nekoray' do
+cask 'bepass' do
     version "1.6.2"
     arch arm: "arm64",
         intel: "x86_64"
